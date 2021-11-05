@@ -2,8 +2,8 @@ const request = require("request");
 const querystring = require('querystring');
 
 // Spotify stuff
-const client_id = '4336f35ed6f74cb8b5321c9c490e03c5'; // Your client id
-const client_secret = '34b1208e7de24d4fb4d2579f077c2c89'; // Your secret
+const client_id = '<CLIENT_ID_HERE>'; // Your client id
+const client_secret = '<CLIENT_SECRET_HERE>'; // Your secret
 const redirect_uri = 'https://bumpordump.media/callback'; // Your redirect uri
 
 // Helper function to generate a random alphanumeric string
