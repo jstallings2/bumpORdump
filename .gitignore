@@ -1,0 +1,5 @@
+keys.txt
+node_modules/*
+.idea/*
+public/js/main.*
+auth.js
